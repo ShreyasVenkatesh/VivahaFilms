@@ -1,23 +1,39 @@
-
-#title{
-	background: url("images/VivahaLogoBlack.jpg") black repeat-x !important;
+body {
+	margin: auto;
+	height: 900px;
 }
 
-#facebook{
-		background: url("images/FacebookLogo.png") black repeat-x !important;
-		height: 120px;
-		width:100px;
+header, footer {
+	height: 150px;
 }
 
-
-#instagram{
-		background: url("images/Instagram.jpg") black repeat-x !important;
+#container {
+	height: 600px;
 }
 
-#twitter{
-		background: url("images/TwitterLogo.jpg") black repeat-x !important;
+#title {
+	background: url("../images/VivahaLogoBlack.jpg");
 }
 
-#youtube{
-		background: url("images/YouTubeLogo.png") black repeat-x !important;
+#facebook {
+	background: url("../images/FacebookLogo.png");
+}
+
+#instagram {
+	background: url("../images/Instagram.jpg");
+}
+
+#twitter {
+	background: url("../images/TwitterLogo.jpg");
+}
+
+#youtube {
+	background: url("../images/YouTubeLogo.png");
+	height: 41px;
+}
+
+.footerIcons {
+	height: 60px;
+	width: 60px;
+	float: left;
 }
