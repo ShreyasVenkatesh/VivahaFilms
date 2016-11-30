@@ -1,4 +1,23 @@
-#socialNetwork{
-	background: url("");
-	
+
+#title{
+	background: url("images/VivahaLogoBlack.jpg") black repeat-x !important;
+}
+
+#facebook{
+		background: url("images/FacebookLogo.png") black repeat-x !important;
+		height: 120px;
+		width:100px;
+}
+
+
+#instagram{
+		background: url("images/Instagram.jpg") black repeat-x !important;
+}
+
+#twitter{
+		background: url("images/TwitterLogo.jpg") black repeat-x !important;
+}
+
+#youtube{
+		background: url("images/YouTubeLogo.png") black repeat-x !important;
 }
